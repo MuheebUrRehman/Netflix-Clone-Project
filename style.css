@@ -120,7 +120,8 @@ nav button {
 }
 
 .main input {
-  padding: 13px 101px 8px 14px;
+  padding: 13px 14px 8px 14px;
+  width: 415px;
   color: white;
   font-size: 26px;
   border-radius: 4px;
@@ -254,6 +255,11 @@ footer .questions {
     align-items: center;
     justify-content: center;
     gap: 16px;
+  }
+
+  .main input {
+    padding: 6px 7px 4px 7px;
+    width: 315px;
   }
 
   .faq h2 {
